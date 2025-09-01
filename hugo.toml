@@ -14,8 +14,8 @@ pagination.pagerSize = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Aaditya Rautela"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -23,7 +23,7 @@ pagination.pagerSize = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Aaditya Rautela"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -31,7 +31,3 @@ pagination.pagerSize = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
