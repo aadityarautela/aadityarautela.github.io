@@ -1,7 +1,7 @@
 +++
 title = "Hello World"
 date = "2025-09-01"
-author = "Hello"
+author = "Aaditya Rautela"
 description = "A Lorem Ipsum Post"
 +++
 
