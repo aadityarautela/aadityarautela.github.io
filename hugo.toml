@@ -1,6 +1,7 @@
 baseurl = "https://rautela.me/"
 languageCode = "en-us"
 pagination.pagerSize = 5
+theme = "terminal"
 
 [markup.goldmark.renderer]
   unsafe = true
